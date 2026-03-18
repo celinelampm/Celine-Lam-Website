@@ -39,9 +39,7 @@ nav {
   margin-top: 12px;
   text-align: left;
   max-width: 90% ;
- overflow-x: hidden;
- position: fixed; 
- width: 100%;
+ margin-left: 12px;
 }
 
 nav ul {

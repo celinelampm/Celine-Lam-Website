@@ -38,6 +38,10 @@ h1 {
 nav {
   margin-top: 12px;
   text-align: left;
+  max-width: 100% ;
+ overflow-x: hidden;
+ position: fixed; 
+ width: 100%;
 }
 
 nav ul {
